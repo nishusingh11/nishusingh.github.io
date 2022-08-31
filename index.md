@@ -10,12 +10,19 @@ This is the trusted repository maintained by the University of California Irvine
 This repository has a huge collection of varieties of data set, dataset, theories, data generators, etc. This repository is supported by the national scientific foundation, which is in collaboration with rexa.info.
 
 Application of using the UCI repository, you can choose data set based on various factors such as:
+
 Problems which are classification, regression, clustering
+
 Attribute Type: Data set contains categorical, Numerical, mixed 
-Data Type: Multivariate, Univariate, Sequential, Time-Series, Text, Domain Theory
+
+Data Type: Univariate, Multivariate, Time-Series, Text, Domain Theory
+
 Field: Life Sciences, physical sciences, computer science/ computer engineering, social sciences, Business, and others.
+
 Number of data set features: less than 10, between 10 to 100, greater than 100
+
 Instances of the data set: less than 100, between 100 to 1000, and greater than 1000
+
 My personal experience with UCI repository: I have worked on 5-6 data sets of UCI of different sizes. Because of a larger number of features I was able to learn and experiment with different problems that I created by myself. 
 
 
